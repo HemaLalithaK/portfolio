@@ -9,7 +9,7 @@
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_May 2023_)
                  		
-- B.Tech., Information Technology	               | Jawaharlal Nehru Technological University, Kakinada, India (_May 2014_)	 			        		
+- B.Tech., Information Technology	             | Jawaharlal Nehru Technological University, Kakinada, India (_May 2014_)	 			        		
 
 
 ### Work Experience
