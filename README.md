@@ -13,14 +13,14 @@
 
 
 ### Work Experience
-**Graduate Assistant | Texas State University | Jan 2022 – May 2023
+**Graduate Assistant @ Texas State University (_Jan 2022 – May 2023_)**
 - Conducted qualitative and quantitative data analysis to produce interactive Tableau and Power BI dashboards enabling data exploration and informed decision-making, along with impactful visualizations to effectively convey data insights to professors.
 - Employed Microsoft Excel for hypothesis testing, logistic and linear regression modeling, and creating pivot tables and charts.
 - Utilized normalization techniques to eliminate redundancies while designing facts and dimension tables and documented the data flow using ER diagrams.
 - Leveraged Python for efficient data cleaning and visualization, enhancing data analysis workflows.
 - Performed data compatibility and quality assurance checks to ensure seamless integration and accurate analysis.
 
-**Senior Systems Engineer | Infosys Limited | May 2014 – April 2017 (Data Modeling, Visualizations, Dashboards, Reports, Presentations)
+**Senior Systems Engineer @ Infosys Limited (_May 2014 – April 2017_)**
 - Developed and deployed Oracle PL/SQL applications, optimizing task assignment for field engineers and managers and reducing task assignment time by 30%.
 - Employed Python scripts for comprehensive data cleaning, enhancing data quality and analytical outcomes by handling missing values, standardizing formats, and eliminating duplicates.
 - Efficiently optimized SQL queries on various RDBMS platforms (SQL Server, Oracle) using advanced techniques like multiple joins and subqueries. Resulted in improved performance, effective troubleshooting, resolution, and data integrity maintenance.
