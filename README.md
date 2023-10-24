@@ -37,7 +37,7 @@
 
 ## Projects
 ### Multiclass text classification model for Amazon Kindle Reviews, using Pyspark, Machine learning
-• Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
-• Applied it to a 1GB Amazon Kindle review dataset for enhanced product insights and decision-making.
+- Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
+- Applied it to a 1GB Amazon Kindle review dataset for enhanced product insights and decision-making.
 
 ![HousePricePRediction](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Amazon_Reviews.jpg)
