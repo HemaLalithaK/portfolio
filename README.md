@@ -40,4 +40,20 @@
 - Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
 - Applied it to a 1GB Amazon Kindle review dataset for enhanced product insights and decision-making.
 
-![HousePricePRediction](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Amazon_Reviews.jpg)
+![TextClassification](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Amazon_Reviews.jpg)
+
+
+### Avocado Sales Forecast for 2023 using Time Series Forecasting
+- Utilized Python and Power BI for avocado sales trend analysis and accurate time series forecasting in Texas, achieving a mean absolute error of 5.2% over 12 months.
+- Devised a cost-benefit optimization approach, advising local markets on sourcing decisions, leading to an estimated 15% revenue increase.
+
+![AvocadoSales](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/avocado_sales.jpg)
+
+
+### Travelling Salesman Problem using Combinatorial Optimization techniques
+- Effectively solved the Travelling Salesman Problem through combinatorial optimization, reducing travel costs by 20% and minimizing distances traveled by optimizing routes.
+
+![TravellingSalesMan](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/travelling.jpg)
+
+
+
