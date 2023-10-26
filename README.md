@@ -40,7 +40,7 @@
 - Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
 - Applied it to a 1GB Amazon Kindle review dataset for enhanced product insights and decision-making.
 
-![TextClassification](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Amazon_Reviews.jpg)
+![TextClassification](https://raw.githubusercontent.com/HemaLalithaK/portfolio/assets/img/Amazon_Reviews.jpg)
 
 
 ### Avocado Sales Forecast for 2023 using Time Series Forecasting
