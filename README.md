@@ -35,7 +35,7 @@
 - Mentored junior team members, promoting cross-functional collaboration, executing tests, and organizing knowledge transfer sessions.
 
 
-## Projects
+## Academic Projects
 ### Multiclass text classification model for Amazon Kindle Reviews, using Pyspark, Machine learning
 - Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
 - Applied it to a 1GB Amazon Kindle review dataset for enhanced product insights and decision-making.
