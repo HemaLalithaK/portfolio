@@ -57,5 +57,14 @@
 
 ![TravellingSalesMan](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/travelling.JPG)
 
+## Certifications
+### Academy Accreditation - Databricks Lakehouse Fundamentals
+- Databricks Academy
+- [July 2023- July 2024]
+
+![Databricks](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Databricks_Certificate.PNG)
+
+
+
 
 
