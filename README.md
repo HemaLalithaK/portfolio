@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/hemalalithakothapalli/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://github.com/HemaLalithaK/">
+<a href="https://github.com/HemaLalithaK/portfolio">
 <img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
 
 ### Education
