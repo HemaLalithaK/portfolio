@@ -44,14 +44,16 @@
 
 
 ### Avocado Sales Forecast for 2023 using Time Series Forecasting
-- Utilized Python and Power BI for avocado sales trend analysis and accurate time series forecasting in Texas, achieving a mean absolute error of 5.2% over 12 months.
-- Devised a cost-benefit optimization approach, advising local markets on sourcing decisions, leading to an estimated 15% revenue increase.
+- Leveraged Python and data visualization tools (Tableau) to project avocado sales trends and performed time series forecasting for Texas state.
+- Developed a robust forecasting model that accurately predicted avocado sales for the next 12 months, achieving a mean absolute error (MAE) of 5.2%.
+- Devised a cost-benefit optimization strategy that informed local markets on optimal sourcing decisions, resulting in an estimated revenue increase of 15%.
 
 ![AvocadoSales](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/avocado_sales.JPG)
 
 
 ### Travelling Salesman Problem using Combinatorial Optimization techniques
-- Effectively solved the Travelling Salesman Problem through combinatorial optimization, reducing travel costs by 20% and minimizing distances traveled by optimizing routes.
+- Successfully solved the Travelling Salesman Problem for a set of locations using combinatorial optimization techniques.
+- Achieved a significant reduction of travel costs by 20% and minimized distance traveled by optimizing the route, demonstrating effective problem-solving skills.
 
 ![TravellingSalesMan](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/travelling.JPG)
 
