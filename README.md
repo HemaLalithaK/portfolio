@@ -64,6 +64,10 @@
 
 ![Databricks](https://raw.githubusercontent.com/HemaLalithaK/portfolio/main/assets/img/Databricks_Certificate.PNG)
 
+## Awards and Honors
+- A lifetime member of Beta Gamma Sigma International Business Honor Society and Alpha Chi National Honor Society.
+- Received the Insta Award from Infosys Limited for exemplary contributions to both functional and technical aspects of the project, while also being recognized as the best contributor to the team.
+
 
 
 
