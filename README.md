@@ -14,20 +14,20 @@
 
 ### Work Experience
 **Data Analyst @ CVS Health (_June 2023 – October 2025_)**
-• Led the design and engineering of ETL pipelines using AWS services, Python and dbt, processing 2M+ daily prescription and insurance transactions with high data quality for analytics. 
-• Built Power BI dashboards to monitor pharmacy operations and claims reconciliation, empowering 500+ stores to optimize inventory and patient adherence. 
-• Partnered with finance and clinical teams to consolidate data in SQL and Snowflake, reconciling $150M in quarterly claims and cutting report time from 4 hours to 90 mins. 
-• Developed predictive models for prescription demand using Scikit-learn and time-series forecasting, minimizing stockouts for 200+ medications. 
-• Automated recurring reporting with Alteryx, saving 120+ analyst hours per quarter while ensuring HIPAA compliance and accurate financial integration. 
-• Collaborated across IT, finance, and operations to define KPIs and deliver Tableau dashboards used for nationwide decision-making impacting 10M+ patients. 
+- Led the design and engineering of ETL pipelines using AWS services, Python and dbt, processing 2M+ daily prescription and insurance transactions with high data quality for analytics. 
+- Built Power BI dashboards to monitor pharmacy operations and claims reconciliation, empowering 500+ stores to optimize inventory and patient adherence. 
+- Partnered with finance and clinical teams to consolidate data in SQL and Snowflake, reconciling $150M in quarterly claims and cutting report time from 4 hours to 90 mins. 
+- Developed predictive models for prescription demand using Scikit-learn and time-series forecasting, minimizing stockouts for 200+ medications. 
+- Automated recurring reporting with Alteryx, saving 120+ analyst hours per quarter while ensuring HIPAA compliance and accurate financial integration. 
+- Collaborated across IT, finance, and operations to define KPIs and deliver Tableau dashboards used for nationwide decision-making impacting 10M+ patients. 
 
 **Data Analyst @ KPMG (_July 2014 – June 2017_)**
-• Directed development of automated ETL workflows with Talend and Oracle, improving accuracy of 90K+ quarterly transactions and streamlining audit preparation. 
-• Designed Tableau dashboards for 150+ client portfolios, tracking revenue, expense, and KPIs to guide executive financial decisions. 
-• Conducted detailed variance analysis and budget forecasting using Python (Pandas, Matplotlib) and Excel Power Query, detecting anomalies in $80M client spend. 
-• Engineered cash flow and funding models in R, identifying liquidity gaps across 10 major portfolios and supporting proactive capital planning. 
-• Streamlined recurring financial reports with Alteryx and VBA, cutting manual effort by 130 hours/quarter while ensuring IFRS and SOX compliance. 
-• Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries. 
+- Directed development of automated ETL workflows with Talend and Oracle, improving accuracy of 90K+ quarterly transactions and streamlining audit preparation. 
+- Designed Tableau dashboards for 150+ client portfolios, tracking revenue, expense, and KPIs to guide executive financial decisions. 
+- Conducted detailed variance analysis and budget forecasting using Python (Pandas, Matplotlib) and Excel Power Query, detecting anomalies in $80M client spend. 
+- Engineered cash flow and funding models in R, identifying liquidity gaps across 10 major portfolios and supporting proactive capital planning. 
+- Streamlined recurring financial reports with Alteryx and VBA, cutting manual effort by 130 hours/quarter while ensuring IFRS and SOX compliance. 
+- Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries. 
 
 
 ## Academic Projects
