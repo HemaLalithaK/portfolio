@@ -1,4 +1,9 @@
 # Data Analyst
+<a href="https://www.linkedin.com/in/hemalalithakothapalli/">
+<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
+<a href="https://github.com/HemaLalithaK/portfolio">
+<img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
+
 #### Technical Skills
 - Data & Warehousing: Oracle, SQL Server, MySQL, PostgreSQL, Snowflake, Redshift, BigQuery, DBT
 - Programming: Python, SQL, PL/SQL, R, Java, PySpark, Shell Scripting 
@@ -8,11 +13,6 @@
 - Statistical Methods: A/B Testing, Regression, Forecasting, Clustering, Classification, NLP, Predictive Modeling 
 - Tools & IDEs: Jupyter, SQL Developer, Anaconda, GitHub, R Studio, Visual Studio, Toad, MS Office 
 - Process: Agile (Scrum), Waterfall 
-
-<a href="https://www.linkedin.com/in/hemalalithakothapalli/">
-<img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
-<a href="https://github.com/HemaLalithaK/portfolio">
-<img src="https://img.shields.io/badge/Github-211F1F?style=flat-square&logo=GitHub&logoColor=ffffff"></a>
 
 ### Education
 - M.S., Data Analytics and Information systems | Texas State University at San Marcos (_May 2023_)
