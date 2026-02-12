@@ -1,5 +1,13 @@
 # Data Analyst
-#### Technical Skills: Python, R, Java, PL/SQL, SQL, AWS, Pyspark, Tableau, Microsoft PowerBI, Microsoft Excel
+#### Technical Skills
+- Data & Warehousing: Oracle, SQL Server, MySQL, PostgreSQL, Snowflake, Redshift, BigQuery, DBT
+- Programming: Python, SQL, PL/SQL, R, Java, PySpark, Shell Scripting 
+- Frameworks & Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, TensorFlow 
+- Visualization & BI: Tableau, Power BI (DAX), Alteryx, Looker, Excel, Qlik Sense, Data Studio, SharePoint, Power Automate
+- Cloud & Platforms: AWS (S3, Glue, Lambda, IAM), Azure (Data Factory), GCP (Dataflow) 
+- Statistical Methods: A/B Testing, Regression, Forecasting, Clustering, Classification, NLP, Predictive Modeling 
+- Tools & IDEs: Jupyter, SQL Developer, Anaconda, GitHub, R Studio, Visual Studio, Toad, MS Office 
+- Process: Agile (Scrum), Waterfall 
 
 <a href="https://www.linkedin.com/in/hemalalithakothapalli/">
 <img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff"></a>
