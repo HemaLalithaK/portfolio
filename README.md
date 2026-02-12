@@ -13,26 +13,21 @@
 
 
 ### Work Experience
-**Graduate Assistant @ Texas State University (_Jan 2022 – May 2023_)**
-- Conducted qualitative and quantitative data analysis to produce interactive Tableau and Power BI dashboards enabling data exploration and informed decision-making, along with impactful visualizations to effectively convey data insights to professors.
-- Employed Microsoft Excel for hypothesis testing, logistic and linear regression modeling, and creating pivot tables and charts.
-- Utilized normalization techniques to eliminate redundancies while designing facts and dimension tables and documented the data flow using ER diagrams.
-- Leveraged Python for efficient data cleaning and visualization, enhancing data analysis workflows.
-- Performed data compatibility and quality assurance checks to ensure seamless integration and accurate analysis.
+**Data Analyst @ CVS Health (_June 2023 – October 2025_)**
+• Led the design and engineering of ETL pipelines using AWS services, Python and dbt, processing 2M+ daily prescription and insurance transactions with high data quality for analytics. 
+• Built Power BI dashboards to monitor pharmacy operations and claims reconciliation, empowering 500+ stores to optimize inventory and patient adherence. 
+• Partnered with finance and clinical teams to consolidate data in SQL and Snowflake, reconciling $150M in quarterly claims and cutting report time from 4 hours to 90 mins. 
+• Developed predictive models for prescription demand using Scikit-learn and time-series forecasting, minimizing stockouts for 200+ medications. 
+• Automated recurring reporting with Alteryx, saving 120+ analyst hours per quarter while ensuring HIPAA compliance and accurate financial integration. 
+• Collaborated across IT, finance, and operations to define KPIs and deliver Tableau dashboards used for nationwide decision-making impacting 10M+ patients. 
 
-**Senior Systems Engineer @ Infosys Limited (_May 2014 – April 2017_)**
-- Developed and deployed Oracle PL/SQL applications, optimizing task assignment for field engineers and managers and reducing task assignment time by 30%.
-- Employed Python scripts for comprehensive data cleaning, enhancing data quality and analytical outcomes by handling missing values, standardizing formats, and eliminating duplicates.
-- Efficiently optimized SQL queries on various RDBMS platforms (SQL Server, Oracle) using advanced techniques like multiple joins and subqueries. Resulted in improved performance, effective troubleshooting, resolution, and data integrity maintenance.
-- Extracted and validated data from diverse sources, identifying and examining outliers while maintaining 100% data accuracy. This facilitated data-driven insights.
-- Used Tableau to create actionable dashboards and reports, aiding in the presentation of findings and recommendations to leadership.
-- Developed data models, algorithms, and visualizations to identify trends and opportunities, effectively communicating complex analyses to non-technical stakeholders.
-- Conducted regression testing in Microsoft Excel, ensuring accurate database updates and maintaining data integrity and system performance.
-- Collaborated with business analysts to identify development objectives and understand user requirement documents.
-- Applied statistical analysis to diverse structured and unstructured data sources, revealing trends, insights (KPIs), and key business solutions, resulting in potential cost savings of up to 15%.
-- Monitored system health and logs, achieving a remarkable 99.9% uptime rate for a stable operational environment.
-- Troubleshooted production job failures within SLA limits, reducing downtime by 25%. Implemented enhancements that led to a 15% reduction in recurring incidents.
-- Mentored junior team members, promoting cross-functional collaboration, executing tests, and organizing knowledge transfer sessions.
+**Data Analyst @ KPMG (_July 2014 – June 2017_)**
+• Directed development of automated ETL workflows with Talend and Oracle, improving accuracy of 90K+ quarterly transactions and streamlining audit preparation. 
+• Designed Tableau dashboards for 150+ client portfolios, tracking revenue, expense, and KPIs to guide executive financial decisions. 
+• Conducted detailed variance analysis and budget forecasting using Python (Pandas, Matplotlib) and Excel Power Query, detecting anomalies in $80M client spend. 
+• Engineered cash flow and funding models in R, identifying liquidity gaps across 10 major portfolios and supporting proactive capital planning. 
+• Streamlined recurring financial reports with Alteryx and VBA, cutting manual effort by 130 hours/quarter while ensuring IFRS and SOX compliance. 
+• Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries. 
 
 
 ## Academic Projects
