@@ -21,6 +21,14 @@
 
 
 ### Work Experience
+**Data Analyst / Full-Stack Automation @ Innovative Technology Strategies (_November 2025 – Present_)**  
+- Built a data collection and CMS platform for the ITS Fatherhood website using Next.js, Supabase, Replit, GitHub, and Vercel, supporting survey intake, database storage, authentication, content updates, and deployment. 
+- Designed the Supabase database architecture to manage survey responses, CMS records, website content, user data, and workflow information. 
+- Integrated Jotform, Zapier, and SimpleTexting to automate survey intake and post-survey SMS communication with participants. 
+- Developed Supabase Edge Functions and webhooks to process Jotform submissions and store response data securely in the backend database. 
+- Delivered a custom CMS dashboard with login, authentication, protected access, and two-way Supabase integration for managing and visualizing website content. 
+- Applied AI coding agents and prompt-driven workflows to accelerate development, debugging, integrations, authentication setup, Vercel deployment, and production troubleshooting.
+
 **Data Analyst @ CVS Health (_June 2023 – October 2025_)**
 - Led the design and engineering of ETL pipelines using AWS services, Python and dbt, processing 2M+ daily prescription and insurance transactions with high data quality for analytics. 
 - Built Power BI dashboards to monitor pharmacy operations and claims reconciliation, empowering 500+ stores to optimize inventory and patient adherence. 
@@ -35,8 +43,7 @@
 - Conducted detailed variance analysis and budget forecasting using Python (Pandas, Matplotlib) and Excel Power Query, detecting anomalies in $80M client spend. 
 - Engineered cash flow and funding models in R, identifying liquidity gaps across 10 major portfolios and supporting proactive capital planning. 
 - Streamlined recurring financial reports with Alteryx and VBA, cutting manual effort by 130 hours/quarter while ensuring IFRS and SOX compliance. 
-- Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries. 
-
+- Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries.
 
 ## Academic Projects
 ### Multiclass text classification model for Amazon Kindle Reviews, using Pyspark, Machine learning
