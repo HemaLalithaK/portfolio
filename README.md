@@ -50,6 +50,7 @@
 - Built a complete sales analysis project using the Maven Bicycle Sales dataset to clean, transform, and analyze data, then present insights through an interactive dashboard.
 - The project highlights sales trends, customer behavior, product performance, and revenue patterns to support better business decisions.
 
+![Bicycle Sales Dashboard](https://github.com/HemaLalithaK/portfolio/blob/main/assets/img/Maven_bicycle_dashboard.png)
 
 
 ## Academic Projects
