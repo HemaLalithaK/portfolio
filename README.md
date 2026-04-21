@@ -21,7 +21,7 @@
 
 
 ### Work Experience
-**Data Analyst / Full-Stack Automation @ Innovative Technology Strategies (_November 2025 – Present_)**  
+**Data Analyst / Full-Stack Developer @ Innovative Technology Strategies (_November 2025 – Present_)**  
 - Built a data collection and CMS platform for the ITS Fatherhood website using Next.js, Supabase, Replit, GitHub, and Vercel, supporting survey intake, database storage, authentication, content updates, and deployment. 
 - Designed the Supabase database architecture to manage survey responses, CMS records, website content, user data, and workflow information. 
 - Integrated Jotform, Zapier, and SimpleTexting to automate survey intake and post-survey SMS communication with participants. 
