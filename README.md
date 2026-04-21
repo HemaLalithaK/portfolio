@@ -45,6 +45,13 @@
 - Streamlined recurring financial reports with Alteryx and VBA, cutting manual effort by 130 hours/quarter while ensuring IFRS and SOX compliance. 
 - Collaborated with audit and treasury teams to validate KPIs, ensuring data integrity and improving reporting turnaround via optimized SQL Server queries.
 
+## Personal Project
+### Sales Analytics Dashboard | Maven Bicycle Sales
+- Built a complete sales analysis project using the Maven Bicycle Sales dataset to clean, transform, and analyze data, then present insights through an interactive dashboard.
+- The project highlights sales trends, customer behavior, product performance, and revenue patterns to support better business decisions.
+
+
+
 ## Academic Projects
 ### Multiclass text classification model for Amazon Kindle Reviews, using Pyspark, Machine learning
 - Developed a sentiment analysis-based multiclass text classification model with Naive Bayes, attaining 85% accuracy. 
